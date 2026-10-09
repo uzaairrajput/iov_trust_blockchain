@@ -1,0 +1,16 @@
+{
+  "nodes": {
+    "RSU1": "1561F2WDxYFMTkZBHW8oiFF5yCzJxjfyKo3zwF",
+    "RSU2": "1TDfToyw6mX67oYHMtZsakU5xrSdz1CJ34n7pw",
+    "TA": "1SY4RvgWgKZaC2y1hbRCT2biwYTWsVwK6Emrq5",
+    "VEH": "1EGNhmAqNxRPmLfuPXdbG2fE2jiv8hH4Y317UN"
+  },
+  "vehicles": {
+    "V1": "1QMwpwd5EdiTyXQLzQLsWXHd3TBxRWUKeJG79n",
+    "V2": "1MXvzomtWh9kGCyihBSVaKcHhAeaTi5ruR3xbM",
+    "V3": "1TAw7hjozq6B9QBANGhAeywN3T9qJjnM53xEyC",
+    "V4": "1LQxNXjNvBLm38vENPsVMcJnRc8M1aKyYt3j9J",
+    "V5": "1Mn49gs7yvWeAHfcMtkF1ExCzFpLwb2FKjMmAw",
+    "V6": "19YrqBWTtSco6BJ72qP2RweEZPmf16gL2TJJXs"
+  }
+}

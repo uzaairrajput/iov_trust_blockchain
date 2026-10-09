@@ -1,0 +1,16 @@
+{
+  "19YrqBWTtSco6BJ72qP2RweEZPmf16gL2TJJXs|S1": {
+    "addr": "19YrqBWTtSco6BJ72qP2RweEZPmf16gL2TJJXs",
+    "restored": false,
+    "type": "soft",
+    "until": 1791542927,
+    "vehicle": "V6"
+  },
+  "19YrqBWTtSco6BJ72qP2RweEZPmf16gL2TJJXs|S3": {
+    "addr": "19YrqBWTtSco6BJ72qP2RweEZPmf16gL2TJJXs",
+    "restored": false,
+    "type": "hard",
+    "until": 1791542941,
+    "vehicle": "V6"
+  }
+}
